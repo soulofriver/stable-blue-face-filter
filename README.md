@@ -17,16 +17,16 @@ A custom filter is then applied to each detected face region.
 python main.py
 
 
-# Controls
+## Controls
 
 Press ESC to exit
 
-# File Structure
+## File Structure
 
 haarcascade_frontalface_default.xml
 main.py
 
-# Requirements
+## Requirements
 
 Python 3.x
 OpenCV
